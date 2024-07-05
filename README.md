@@ -4,7 +4,7 @@
 Phone number validation is the process of ensuring that a contact's phone number is accurate and in the proper format. This can help with list building efforts as it eliminates inaccurate or incomplete numbers, resulting in a higher quality contact list.
 
 Demo 📸
-![Demo]("https://github.com/royajamal/Telephone-Number-Validattion/assets/168343975/b0798be4-400a-4647")
+![screenshot](Images/Screenshot%202024-07-04%20233723.png)
 
 Technologies Used 🛠
 List the technologies or tools that i used to develop my project.
